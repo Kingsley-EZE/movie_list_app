@@ -1,16 +1,9 @@
 # movie_list_app
 
-A new Flutter project.
+## Some Screenshot
 
-## Getting Started
+- ![Screenshot_20230420-135748](https://user-images.githubusercontent.com/68538735/233378787-9f45d6d8-7301-43a5-aa11-10412a75c217.png)
 
-This project is a starting point for a Flutter application.
+- ![Screenshot_20230420-135757](https://user-images.githubusercontent.com/68538735/233378854-80dc9033-fd31-4edc-bfbb-a825f2a47a9c.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
