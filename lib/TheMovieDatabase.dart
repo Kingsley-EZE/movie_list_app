@@ -1,7 +1,7 @@
 
 import 'package:movie_list_app/networking.dart';
 
-const ApiKey = '47912d3aa68be5605a530baa6b2b98f6';  //Here's where you paste your APIKEY. Get on from https://themoviedb.org
+const ApiKey = '';  //Here's where you paste your APIKEY. Get on from https://themoviedb.org
 
 class TheMovieDatabase{
 
